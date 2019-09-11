@@ -43,6 +43,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+            this change is made by anirudh verma
             -->
         </activity>
         <activity android:name=".ImageDisplayActivity">
